@@ -20,7 +20,7 @@
 *.bak
 
 #Gradle temporary files
-springboot-with-microservices/target/
+springboot-with-microservices1/target/
 
 #Eclipse files
 **/.project
